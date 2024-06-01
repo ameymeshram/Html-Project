@@ -1,0 +1,67 @@
+body
+{
+   background-image: url(./fi.jpg);
+    color:blue ;
+}
+header
+{   
+    background-color: aquamarine;
+    display:inline-block ;
+    animation-name: Animation;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+@keyframes Animation 
+{ 
+    from
+    {
+        background-color: aquamarine;
+    }
+    to
+    {
+        background-color: rgb(208, 0, 250);
+    }
+}
+#a1
+{   border-style:none;
+    margin: 50px;
+    font-size: 45px;
+}
+.a2
+{
+    font-size: 25px;
+    border-style: none;
+    margin-left: 1280px;
+}
+#m
+{
+    text-align: center;
+    color:lightsalmon;
+    font-size: 50px;
+}
+#n
+{
+    text-align: center;
+    color: aqua;
+    font-size: 30px;
+}
+#n:visited
+{
+    color:bisque;
+}
+a
+{
+    text-decoration: none;
+}
+a:visited
+{
+    color: yellowgreen;
+}
+
+
+
+
+
+
+
+

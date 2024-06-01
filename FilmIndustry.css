@@ -1,0 +1,34 @@
+.a
+{
+    background-image: url(./B.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+#a
+{
+    background-image: url(./S.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-bottom: 800px;
+
+}
+#b
+{
+    background-image: url(./ill.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-bottom: 600px;
+}
+.b
+{
+    font-size: 20px;
+    color: aqua;
+}
+video
+{
+    display: inline-block;
+}
